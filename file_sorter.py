@@ -80,7 +80,7 @@ class FileProcessor:
         name = re.sub(r'[_\-\.]+', ' ', name)
         
         # Remove dates in common formats (YYYY-MM-DD, YYYYMMDD, etc.)
-        name = re.sub(r'\d{4}[-_]?\d{2}[-_]?\d{2}', '', name)
+        name = re.sub(r'\d{4}[-_]??\d{2}[-_]??\d{2}', '', name)
         
         # Remove numbers at start/end
         name = re.sub(r'^\d+\s*', '', name)
@@ -225,7 +225,7 @@ def main():
     print("=" * 80)
     print("FILE SORTING SCRIPT")
     print("=" * 80)
-    print()
+    print() 
     
     # Create processor
     processor = FileProcessor(

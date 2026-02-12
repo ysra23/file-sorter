@@ -96,7 +96,7 @@ def run_demo():
     print("=" * 80)
     print("FILE SORTER DEMO")
     print("=" * 80)
-    print()
+    print() 
     
     # Create sample files
     test_dir = create_sample_files()
@@ -104,7 +104,7 @@ def run_demo():
     print("\n" + "=" * 80)
     print("Now running the file sorter...")
     print("=" * 80)
-    print()
+    print() 
     
     # Import and run the file sorter
     import file_sorter
@@ -119,7 +119,7 @@ def run_demo():
     print("\nCheck the following:")
     print("  📂 sorted_files/        - Your organized files")
     print("  📄 file_sorting_report.txt - Detailed report")
-    print()
+    print() 
 
 if __name__ == "__main__":
     run_demo()

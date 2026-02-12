@@ -1,0 +1,23 @@
+TASK / SKILL REQUIREMENT
+1 Detect threats, secure systems, respond to incidents.
+2 Develop, deploy, and debug cloud applications using AWS services and APIs.
+3 Design, build, and deploy scalable cloud applications with best practices.
+4 Install, configure, and troubleshoot hardware and software on computers and devices.
+5 Understand IT service management concepts, processes, and best practices.
+6 Design, build, and deploy applications on Kubernetes clusters.
+7 Design, build, and deploy machine learning models and pipelines
+8 Install, configure, and manage Linux systems and basic networking.
+9 Install, configure, and manage VMware vSphere environments and virtual machines.
+10 Manage, monitor, and secure cloud databases on Microsoft Azure.
+
+Justification
+1 Validates core cybersecurity skills. Required for entry-level security roles.
+2 Validates AWS development and cloud programming skills. Required for cloud developer roles.
+3 Validates advanced cloud development and architecture skills. Needed for senior cloud developer roles.
+4 Validates foundational IT support skills. Required for entry-level IT technician roles.
+5 Validates knowledge of IT service management principles. Useful for IT service and operations roles.
+6 Validates practical Kubernetes application development skills. Required for cloud-native and containerized application roles.
+7 Validates advanced ML engineering and deployment skills. Required for AI/ML developer and data science roles.
+8 Validates foundational Linux administration skills. Required for entry-level Linux and system administrator roles.
+9 Validates skills in data center virtualization using VMware. Required for virtualization and data center administrator roles.
+10 Validates skills in Azure database administration. Required for cloud database and data management roles.
